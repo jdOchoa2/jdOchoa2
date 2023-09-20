@@ -45,5 +45,5 @@
 </div><br>
 
 ## 📊 Statistics
-> ![Edo's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juOchoa2&hide=jupyter%20notebook&layout=donut&theme=dracula)
+> ![Edo's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdOchoa2&hide=jupyter%20notebook&layout=donut&theme=dracula)
 <br>
