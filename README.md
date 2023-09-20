@@ -2,7 +2,7 @@
 
 ## ✌ About Me
 - **Current Position:** Undergraduate physics student at National University of Colombia
-- **Research Interests:** Cosmological inflation, dark matter,  primordial black holes, quantum field theory, quantum Monte Carlo, phase transitions.
+- **Research Interests:** Cosmological inflation, dark matter, quantum field theory, quantum Monte Carlo, spin systems.
 - **Get in Touch:** <juochoaa@unal.edu.co>
 
 ## 🖥 Languages
