@@ -1,16 +1,49 @@
-### Hi there 👋
+## Hi there! 👋 
 
-<!--
-**jdOchoa2/jdOchoa2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ✌ About Me
+- **Current Position:** Undergraduate physics student at National University of Colombia
+- **Research Interests:** Cosmological inflation, dark matter,  primordial black holes, quantum field theory, quantum Monte Carlo, phase transitions.
+- **Get in Touch:** <juochoaa@unal.edu.co>
 
-Here are some ideas to get you started:
+## 🖥 Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="height: fit-content; padding-top: 5px">
+  
+<a href="https://python.org/" target="_blank">
+  <img height="40" src="https://cdn.simpleicons.org/python" title="Python">
+</a>
+<a href="https://julialang.org/" target="_blank">
+  <img height="40" src="https://julialang.org/assets/infra/logo.svg" title="Julia">
+</a>
+
+<a href="https://isocpp.org/" target="_blank">
+  <img height="40" src="https://isocpp.org/assets/images/cpp_logo.png" title="C/C++">
+</a>
+
+</div><br>
+
+
+ ## 🛠 Packages and Tools
+ <div style="height: fit-content; padding-top: 5px">
+
+<a href="https://github.com/" target="_blank">
+  <img height="40" src="https://cdn.simpleicons.org/github/white" title="GitHub">
+</a>
+
+  <a href="https://www.latex-project.org/" target="_blank">
+  <img height="40" src="https://cdn.simpleicons.org/latex" title="LaTeX">
+</a>
+
+<a href="https://jupyter.org/" target="_blank">
+  <img height="40" src="https://cdn.simpleicons.org/jupyter" title="Jupyter">
+</a>
+
+<a href="https://tiswww.case.edu/php/chet/bash/bashtop.html" target="_blank">
+  <img height="40" src="https://tiswww.case.edu/php/chet/img/bash-logo-web.png" title="Bash">
+</a>
+
+</div><br>
+
+## 📊 Statistics
+> ![Edo's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juOchoa2&hide=jupyter%20notebook&layout=donut&theme=dracula)
+<br>
