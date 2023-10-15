@@ -41,9 +41,3 @@
 <a href="https://tiswww.case.edu/php/chet/bash/bashtop.html" target="_blank">
   <img height="40" src="https://tiswww.case.edu/php/chet/img/bash-logo-web.png" title="Bash">
 </a>
-
-</div><br>
-
-## 📊 Statistics
-> ![Edo's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdOchoa2&hide=jupyter%20notebook&layout=donut&theme=dracula)
-<br>
