@@ -38,12 +38,12 @@
   <img height="40" src="https://cdn.simpleicons.org/jupyter" title="Jupyter">
 </a>
 
-<a href="https://tiswww.case.edu/php/chet/bash/bashtop.html" target="_blank">
-  <img height="40" src="https://tiswww.case.edu/php/chet/img/bash-logo-web.png" title="Bash">
-</a>
-
 <a href="https://www.sagemath.org" target="_blank">
   <img height="40" src="https://www.cecm.sfu.ca/~nbruin/WCAG2017/sage_sticker.png" title="Sage">
+</a>
+
+<a href="https://tiswww.case.edu/php/chet/bash/bashtop.html" target="_blank">
+  <img height="40" src="https://tiswww.case.edu/php/chet/img/bash-logo-web.png" title="Bash">
 </a>
 
 ## 📊 Statistics
