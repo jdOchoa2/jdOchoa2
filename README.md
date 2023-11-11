@@ -43,7 +43,7 @@
 </a>
 
 <a href="https://www.sagemath.org" target="_blank">
-  <img height="40" src="https://pbs.twimg.com/profile_images/464486563427004417/CoAviUnx_400x400.png" title="Sage">
+  <img height="40" src="https://www.cecm.sfu.ca/~nbruin/WCAG2017/sage_sticker.png" title="Sage">
 </a>
 
 ## 📊 Statistics
