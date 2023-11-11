@@ -42,5 +42,9 @@
   <img height="40" src="https://tiswww.case.edu/php/chet/img/bash-logo-web.png" title="Bash">
 </a>
 
+<a href="https://www.sagemath.org" target="_blank">
+  <img height="40" src="https://pbs.twimg.com/profile_images/464486563427004417/CoAviUnx_400x400.png" title="Sage">
+</a>
+
 ## 📊 Statistics
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jdOchoa2&hide=jupyter%20notebook&layout=donut&theme=dracula)
