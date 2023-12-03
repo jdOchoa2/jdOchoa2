@@ -42,6 +42,9 @@
   <img height="40" src="https://www.cecm.sfu.ca/~nbruin/WCAG2017/sage_sticker.png" title="Sage">
 </a>
 
+<a href="https://www.sagemath.org](https://www.gnu.org/software/bash/" target="_blank">
+  <img height="40" src="https://www.cecm.sfu.ca/~nbruin/WCAG2017/sage_sticker.png](https://e7.pngegg.com/pngimages/39/202/png-clipart-bash-shell-command-line-interface-ls-shell-rectangle-logo-thumbnail.png" title="Sage">
+</a>
 
 ## 📊 Statistics
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jdOchoa2&hide=jupyter%20notebook&layout=donut&theme=dracula)
