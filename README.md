@@ -43,7 +43,7 @@
 </a>
 
 <a href="https://www.gnu.org/software/bash/" target="_blank">
-  <img height="40" src="https://www.cecm.sfu.ca/~nbruin/WCAG2017/sage_sticker.png](https://e7.pngegg.com/pngimages/39/202/png-clipart-bash-shell-command-line-interface-ls-shell-rectangle-logo-thumbnail.png" title="Bash">
+  <img height="40" src="https://e7.pngegg.com/pngimages/39/202/png-clipart-bash-shell-command-line-interface-ls-shell-rectangle-logo-thumbnail.png" title="Bash">
 </a>
 
 ## 📊 Statistics
